@@ -4,4 +4,4 @@
 
 ![](http://jmitch.me/github/iOS.svg)
 
-![](http://jmitch.me/github/play.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/c/cd/Get_it_on_Google_play.svg)
