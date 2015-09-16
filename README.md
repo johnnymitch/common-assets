@@ -4,4 +4,4 @@
 
 ![](http://jmitch.me/github/iOS.svg)
 
-![](http://jmitch.me/github/play.svg)
+![](http://jmitch.me/github/play.svg.png)
